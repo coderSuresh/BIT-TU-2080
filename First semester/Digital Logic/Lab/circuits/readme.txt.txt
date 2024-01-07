@@ -1,0 +1,1 @@
+Download 'Digital Works' simulator software to open these circuits.
