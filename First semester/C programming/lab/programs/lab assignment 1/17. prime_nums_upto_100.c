@@ -3,8 +3,7 @@
 int main() {
     int n, flag;
 
-    printf("Prime numbers upto 100 are:\n");
-
+    printf("Prime numbers between 1 and 100 are:\n");
     for (int i = 2; i <= 100; i++) {
         flag = 0;
 
@@ -16,7 +15,7 @@ int main() {
         }
 
         if (flag == 0) {
-            printf("%d\n", i);
+            printf("%d, ", i);
         }
     }
 
