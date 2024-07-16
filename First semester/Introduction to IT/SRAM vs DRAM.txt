@@ -1,0 +1,19 @@
+SRAM
+- static RAM
+- faster speed
+- consumes less power than DRAM
+- occupies more space
+- refresh circuit is not required
+- 6 transistors are needed to form one memory cell
+- expensive
+- used as cache memory
+
+DRAM
+- dynamic RAM
+- less speed than SRAM
+- consumes more power than SRAM
+- occupies less space
+- refresh circuit is required
+- only 1 transistors are needed to form one memory cell
+- less expensive than SRAM
+- used as primary memory (RAM)
