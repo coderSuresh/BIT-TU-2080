@@ -1,0 +1,5 @@
+A recurrence relation is a mathematical eqn that defines a seq. by expressing each term as a function of the previous term.
+
+It has two types
+- homogenious
+- non homogenious 
