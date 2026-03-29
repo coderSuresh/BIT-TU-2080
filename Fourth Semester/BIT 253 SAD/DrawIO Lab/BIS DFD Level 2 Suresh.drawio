@@ -1,0 +1,215 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram id="cLTewv0PYlSBmkmZj1P9" name="Page-1">
+    <mxGraphModel dx="1261" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-2" value="3.1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-3" value="Deposite processing" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="CtIDUFM_4R2qGbCBH_RH-2" vertex="1">
+          <mxGeometry x="30" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-5" value="3.2" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-6" value="Withdrawal processing" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="CtIDUFM_4R2qGbCBH_RH-5" vertex="1">
+          <mxGeometry x="30" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-7" value="3.3" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-8" value="Fund transfer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="CtIDUFM_4R2qGbCBH_RH-7" vertex="1">
+          <mxGeometry x="30" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-9" value="3.4" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="580" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-10" value="Transaction record management" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="CtIDUFM_4R2qGbCBH_RH-9" vertex="1">
+          <mxGeometry x="30" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-11" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="165" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-12" value="Bank employee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="528" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-13" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+          <mxGeometry x="607" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-14" value="Account" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="637" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-15" value="D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+          <mxGeometry x="617" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-16" value="Transaction" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="654" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="340" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-18" value="Deposit request" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="219" y="144" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="CtIDUFM_4R2qGbCBH_RH-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="155" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-20" value="Balance update" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="483" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.66;exitY=-0.007;exitDx=0;exitDy=0;entryX=0.285;entryY=-0.006;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-2" target="CtIDUFM_4R2qGbCBH_RH-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="80" />
+              <mxPoint x="750" y="80" />
+              <mxPoint x="750" y="280" />
+              <mxPoint x="670" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-23" value="Deposite record" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="53" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-11" target="CtIDUFM_4R2qGbCBH_RH-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-25" value="Withdrawal request" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="275" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-5" target="CtIDUFM_4R2qGbCBH_RH-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="303" />
+              <mxPoint x="520" y="200" />
+              <mxPoint x="667" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-27" value="Validate and deduct balance" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-5" target="CtIDUFM_4R2qGbCBH_RH-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="510" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-29" value="Withdrawal record" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="483" y="324" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-11" target="CtIDUFM_4R2qGbCBH_RH-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-31" value="Transfer request" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="189" y="426" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-7" target="CtIDUFM_4R2qGbCBH_RH-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-33" value="Transfer record" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-9" target="CtIDUFM_4R2qGbCBH_RH-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="699" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-35" value="Transaction records" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="481" y="599" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="165" as="sourcePoint" />
+            <mxPoint x="607" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-37" value="Check balance" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="481" y="161" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-7" target="CtIDUFM_4R2qGbCBH_RH-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="380" as="sourcePoint" />
+            <mxPoint x="690" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="500" />
+              <mxPoint x="780" y="200" />
+              <mxPoint x="680" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-39" value="Update account balance" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="482" y="498" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.785;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endFill=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint" />
+            <mxPoint x="340" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-41" value="Transaction reports" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="593" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-12" target="CtIDUFM_4R2qGbCBH_RH-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-43" value="Transaction entry" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="189" y="649" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CtIDUFM_4R2qGbCBH_RH-7" target="CtIDUFM_4R2qGbCBH_RH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtIDUFM_4R2qGbCBH_RH-45" value="Confirmation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="473" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
