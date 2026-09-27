@@ -1,0 +1,39 @@
+﻿@model StudentValidationDemo.Models.Student
+
+@{
+    ViewData["Title"] = "Registration Successful";
+}
+
+<h1>Registration Successful</h1>
+
+<div class="alert alert-success">
+    The student information is valid and has been submitted.
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+
+    <tr>
+        <th>Age</th>
+        <td>@Model.Age</td>
+    </tr>
+
+    <tr>
+        <th>Course</th>
+        <td>@Model.Course</td>
+    </tr>
+</table>
+
+<a asp-controller="Student"
+   asp-action="Create"
+   class="btn btn-primary">
+    Register Another Student
+</a>

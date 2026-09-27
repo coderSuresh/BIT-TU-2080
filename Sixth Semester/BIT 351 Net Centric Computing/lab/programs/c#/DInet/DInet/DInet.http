@@ -1,0 +1,6 @@
+@DInet_HostAddress = http://localhost:5097
+
+GET {{DInet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\bin\Debug\net10.0\lab1.exe
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\bin\Debug\net10.0\lab1.deps.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\bin\Debug\net10.0\lab1.runtimeconfig.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\bin\Debug\net10.0\lab1.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\bin\Debug\net10.0\lab1.pdb
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.AssemblyInfoInputs.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.AssemblyInfo.cs
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.csproj.CoreCompileInputs.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.sourcelink.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\refint\lab1.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.pdb
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\lab1.genruntimeconfig.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\lab1\lab1\obj\Debug\net10.0\ref\lab1.dll

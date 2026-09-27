@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uor6ehLIz64=",
+  "success": true,
+  "projectFilePath": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.10\\microsoft.extensions.dependencyinjection.10.0.10.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

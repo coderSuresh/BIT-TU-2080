@@ -1,0 +1,3 @@
+ID: 101, Name: Alice, Marks: 88.5
+ID: 102, Name: Bob, Marks: 92.0
+ID: 103, Name: Charlie, Marks: 79.5

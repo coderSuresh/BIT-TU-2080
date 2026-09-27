@@ -1,0 +1,15 @@
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\bin\Debug\net10.0\class.exe
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\bin\Debug\net10.0\class.deps.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\bin\Debug\net10.0\class.runtimeconfig.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\bin\Debug\net10.0\class.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\bin\Debug\net10.0\class.pdb
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.AssemblyInfoInputs.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.AssemblyInfo.cs
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.csproj.CoreCompileInputs.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.sourcelink.json
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\refint\class.dll
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.pdb
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\class.genruntimeconfig.cache
+D:\Online Class\BIT-TU-2080\Sixth Semester\BIT 351 Net Centric Computing\lab\programs\c#\class\class\obj\Debug\net10.0\ref\class.dll

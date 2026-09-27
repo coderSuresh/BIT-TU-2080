@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|d:\\online class\\bit-tu-2080\\sixth semester\\bit 351 net centric computing\\lab\\programs\\c#\\database\\database\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|solutionrelative:database\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|d:\\online class\\bit-tu-2080\\sixth semester\\bit 351 net centric computing\\lab\\programs\\c#\\database\\database\\dbcontext\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|solutionrelative:database\\dbcontext\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|d:\\online class\\bit-tu-2080\\sixth semester\\bit 351 net centric computing\\lab\\programs\\c#\\database\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CFAC93-F044-4F59-B9F1-424741169DF4}|database\\database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\DBContext\\StudentContext.cs",
+              "RelativeDocumentMoniker": "database\\DBContext\\StudentContext.cs",
+              "ToolTip": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\DBContext\\StudentContext.cs",
+              "RelativeToolTip": "database\\DBContext\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:40:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "database\\Model\\Student.cs",
+              "ToolTip": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\Model\\Student.cs",
+              "RelativeToolTip": "database\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:39:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\Program.cs",
+              "RelativeDocumentMoniker": "database\\Program.cs",
+              "ToolTip": "D:\\Online Class\\BIT-TU-2080\\Sixth Semester\\BIT 351 Net Centric Computing\\lab\\programs\\c#\\database\\database\\Program.cs",
+              "RelativeToolTip": "database\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:35:40.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
